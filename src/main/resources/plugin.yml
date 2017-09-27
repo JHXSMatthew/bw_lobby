@@ -1,0 +1,4 @@
+name: Bwlobby
+main: com.mcndsj.Bw_lobby.Bw_Lobby
+version: 0.1
+depend: [lobbyStatistics, LobbyDisplay, lobbyControl]
